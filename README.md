@@ -1,0 +1,1 @@
+This is a docker exercise for BIPM summer semester 2023
